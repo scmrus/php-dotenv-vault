@@ -1,0 +1,10 @@
+{
+    "name": "scmrus/php-dotenv-vault",
+    "description": "-",
+    "type": "library",
+    "require": {
+        "php": ">=5.4",
+        "ext-curl": "*"
+    },
+    "license": "MIT"
+}
